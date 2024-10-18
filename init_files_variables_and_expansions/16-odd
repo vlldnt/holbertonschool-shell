@@ -1,0 +1,2 @@
+#!/bin/bash
+rev | cut -d " " -f1 | rev | paste -d , - - | cut -d "," -f1
