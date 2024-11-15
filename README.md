@@ -1,5 +1,4 @@
-# Shell Basics
+## Shell
 
-`HOLBERTON SCHOOL README`
-
-
+| Week :two: | [Basics](https://github.com/vlldnt/holbertonschool-shell/tree/main/basics) \|  [Permissions](https://github.com/vlldnt/holbertonschool-shell/tree/main/permissions)  \|  [IO, Redirections and Filters](https://github.com/vlldnt/holbertonschool-shell/tree/main/io_redirections_and_filters) \|  [Init, Files, Variables and Expansions](https://github.com/vlldnt/holbertonschool-shell/tree/main/init_files_variables_and_expansions) |     |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
